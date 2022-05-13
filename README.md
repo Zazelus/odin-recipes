@@ -3,6 +3,8 @@ Introduction
 
 Just a small project to refresh and practice my HTML, it's a simple website consisting of links to a few recipes. Made only with HTML, this is not the best example of a modern website in terms of design or interactivity.
 
+This is also an opportunity for me to practice making meaningful git commits and messages.
+
 Credits:
 
 The recipes were not written by me, I have included links to the following:
